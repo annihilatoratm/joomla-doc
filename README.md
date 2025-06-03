@@ -1,4 +1,4 @@
-# [Plugin Handle]
+# [Plugin Handle](https://github.com/annihilatoratm/joomla-doc/blob/main/README.md#plugin-handle-1)
 # [User registration](https://github.com/annihilatoratm/joomla-doc/blob/main/doc-eng.md#user-registration)
 # [Payment Flow](https://github.com/annihilatoratm/joomla-doc/blob/main/doc-eng.md#payment-flow-1)
 
