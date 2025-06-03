@@ -52,9 +52,6 @@
   <img src="/images/joomla-1-1-4-direct.png" width=60% height=60%>
 
   ### Uninstallation
-
-  # Удаление плагина
-
   1. In the **Payments** window select the methods that must be deleted.
   2. Click on *Delete* button at the top pf the page.
 
