@@ -42,7 +42,7 @@
   <img src="/images/joomla-1-1-2.png" width=60% height=60%>
 
   ### Configuration
-  1. Click on *Componenets* (1) -> *Options* (2) -> *Payments* (3).
+  1. Click on *Componenets* (1) -> *JoomShopping* (2) -> *Options* (3) -> *Payments* (4).
   2. In the opened window two Payneteasy plugins can be configured: **Payneteasy sale form** (Form integration) and **PaynetEasy sale** (Direct integration).
   3. Click on the *Edit icon* (4) to start configuration.
 
