@@ -1,10 +1,11 @@
-1. Requirements
-2. Functionality
-3. Package build
-4. Plugin Installation
-5. Plugin Configuration
-6. Plugin Uninstallation
-7. User registration
+1. [Requirements](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#requirements)
+2. [Functionality](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#functionality)
+3. [Package build](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#package-build)
+4. [Plugin Installatio]n(https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-installation)
+5. [Plugin Configuration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-configuration)
+6. [Plugin Uninstallation](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-uninstallation)
+7. [User registration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#user-registration)
+8. [Payment Flow](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#payment-flow)
 
 # Requirements
   * PHP version: 5.3 - 5.5
