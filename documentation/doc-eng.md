@@ -1,7 +1,7 @@
 1. [Requirements](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#requirements)
 2. [Functionality](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#functionality)
 3. [Package build](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#package-build)
-4. [Plugin Installatio]n(https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-installation)
+4. [Plugin Installatio](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-installation)
 5. [Plugin Configuration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-configuration)
 6. [Plugin Uninstallation](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-uninstallation)
 7. [User registration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#user-registration)
