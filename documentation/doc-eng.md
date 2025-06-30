@@ -52,10 +52,12 @@
 # 5. Plugin Configuration  
 
 5.1. Go to:   
- * Componenets (1) -> JoomShopping (2) -> Options (3) -> Payments (4).  
+ * Componenets (1) -> JoomShopping (2) -> Options (3) -> Payments (4).
+
 5.2. Two plugin integration types are available:    
  * **Payneteasy sale form** - Form-based/off-site integration.  
  * **PaynetEasy sale** - Direct/on-site integration.  
+
 5.3. Click the _Edit icon_ (4) next to the desired plugin to open the configuration settings.    
 
 <img src="/images/joomla-1-1-2.png" width=60% height=60%>
