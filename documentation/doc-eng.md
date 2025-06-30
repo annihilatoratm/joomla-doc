@@ -1,10 +1,10 @@
 1. [Requirements](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#requirements)
 2. [Functionality](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#functionality)
-3. [Package build](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#package-build)
+3. [Package Build](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#package-build)
 4. [Plugin Installation](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-installation)
 5. [Plugin Configuration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-configuration)
 6. [Plugin Uninstallation](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#plugin-uninstallation)
-7. [User registration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#user-registration)
+7. [User Registration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#user-registration)
 8. [Payment Flow](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#payment-flow)
 
 # Requirements
@@ -29,7 +29,7 @@
   - [ ] [Qiwi Integration](http://wiki.payneteasy.com/index.php/PnE:Qiwi_integration)
   - [ ] [Merchant Callbacks](http://wiki.payneteasy.com/index.php/PnE:Merchant_Callbacks)
 
-  # Package build
+  # Package Build
   1. [Install Composer](http://getcomposer.org/doc/00-intro.md) (if not already installed):
   2. Clone the Plugin Repository: `composer create-project payneteasy/php-plugin-joomshopping --stability=dev --prefer-dist`
   3. Navigate to Plugin Directory: `cd php-plugin-joomshopping`
@@ -75,7 +75,7 @@
     * `components/com_jshopping/payments/pm_payneteasy_saleform`
 
 
-  # User registration
+  # User Registration
   
   1. Click _Create an Account_ to begin the user registration process. Fill in all required fields and click Register to complete registration.
 
