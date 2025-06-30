@@ -35,8 +35,6 @@
   3. Navigate to Plugin Directory: `cd php-plugin-joomshopping`
   4. Build the Archive Package: `composer archive --format=zip`
 
-## <a name="get_package"></a> Получение пакета с плагином
-
   # Plugin Installation
   1. [Download the plugin package](../README.md#get_package).
   2. Log in to the Joomla Admin Panel.
