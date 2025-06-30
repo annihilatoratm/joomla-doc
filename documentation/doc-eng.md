@@ -41,7 +41,8 @@
 4.1. [Download the plugin package](../README.md#get_package).  
 4.2. Log in to the Joomla Admin Panel.  
 4.3. Navigate to:  
- * Componenets (1) -> JoomShopping (2) -> Install & Update (3).  
+ * Componenets (1) -> JoomShopping (2) -> Install & Update (3).
+
 4.4. In the opened window:   
  * Click _Choose File_ (4) to select the plugin archive.  
  * Click _Upload_ (5) to complete the installation.  
