@@ -9,14 +9,14 @@
 # 7. [User Registration](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#user-registration)
 # 8. [Payment Flow](https://github.com/annihilatoratm/joomla-doc/blob/main/documentation/doc-eng.md#payment-flow)
 
-# 1. Requirements
+## 1. Requirements
  * PHP version: 5.3 - 5.5.
  * [curl extension](http://php.net/manual/en/book.curl.php).
  * [Joomla](http://www.joomla.org/download.html) 3.x (plugin v3.1).
  * [JoomShopping](http://joomshopping.pro/download/component.html) 4.x (plugin v4.3).
   
 
-# 2. Functionality
+## 2. Functionality
   - [x] [Sale Transactions](http://wiki.payneteasy.com/index.php/PnE:Sale_Transactions)
   - [ ] [Preauth/Capture Transactions](http://wiki.payneteasy.com/index.php/PnE:Preauth/Capture_Transactions)
   - [ ] [Transfer Transactions](http://wiki.payneteasy.com/index.php/PnE:Transfer_Transactions)
@@ -31,7 +31,7 @@
   - [ ] [Qiwi Integration](http://wiki.payneteasy.com/index.php/PnE:Qiwi_integration)
   - [ ] [Merchant Callbacks](http://wiki.payneteasy.com/index.php/PnE:Merchant_Callbacks)
 
-# 3. Package Build  
+## 3. Package Build  
 3.1. [Install Composer](http://getcomposer.org/doc/00-intro.md) (if not already installed):  
 3.2. Clone the Plugin Repository: `composer create-project payneteasy/php-plugin-joomshopping --stability=dev --prefer-dist`  
 3.3. Navigate to Plugin Directory: `cd php-plugin-joomshopping`  
@@ -49,7 +49,7 @@
      
 <img src="/images/joomla-1-1-2.png" width=60% height=60%>
 
-# 5. Plugin Configuration  
+## 5. Plugin Configuration  
 
 5.1. Go to:   
  * Componenets (1) -> JoomShopping (2) -> Options (3) -> Payments (4).
@@ -65,7 +65,7 @@
 <img src="/images/joomla-1-1-4-form.png" width=60% height=60%>
 <img src="/images/joomla-1-1-4-direct.png" width=60% height=60%>
 
-# 6. Plugin Uninstallation  
+## 6. Plugin Uninstallation  
  6.1. In the **Payments** configuration window, select the plugin(s) to remove.  
  6.2. Click the _Delete_ button at the top of the page.  
 
@@ -78,7 +78,7 @@
   * `components/com_jshopping/payments/pm_payneteasy_sale`
   * `components/com_jshopping/payments/pm_payneteasy_saleform`
 
-# 7. User Registration  
+## 7. User Registration  
   
  7.1. Click _Create an Account_ to begin the user registration process. Fill in all required fields and click Register to complete registration.  
 
@@ -90,7 +90,7 @@
 <img src="/images/joomla-register-3.png" width=60% height=60%>
 <img src="/images/joomla-register-4.png" width=60% height=60%>
 
-# 8. Payment Flow
+## 8. Payment Flow
 
  8.1. On the main page, click **Shop** to browse product categories.  
   * Select a category, choose a product, and click Buy.  
